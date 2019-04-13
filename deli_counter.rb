@@ -18,6 +18,7 @@ def take_a_number(katz_deli, joiner)
 end
 
 def now_serving(katz_deli)
+  if 
   puts katz_deli[0]
   
 end

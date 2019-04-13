@@ -1,7 +1,7 @@
 katz_deli = []
 
 def line(katz_deli)
- katz_deli.map do |customer|
+ katz_deli.each_with_index.map do |customer|
     
     
      if katz_deli.count > 0

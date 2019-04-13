@@ -9,4 +9,5 @@ def line(katz_deli)
     current_line << "#{index}. #{customer}"
   end
   puts current_line
+  end
 end

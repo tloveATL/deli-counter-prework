@@ -17,7 +17,7 @@ def take_a_number(katz_deli, joiner)
   puts "Welcome, #{joiner}. You are number #{katz_deli.length} in line."
 end
 
-def now_serving
+def now_serving(katz_deli)
   puts katz_deli(0)
   
 end

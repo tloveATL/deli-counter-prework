@@ -18,3 +18,6 @@ def take_a_number(katz_deli, joiner)
 end
 
 def now_serving
+  puts katz_deli(0)
+  
+end

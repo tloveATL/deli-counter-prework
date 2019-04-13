@@ -1,7 +1,7 @@
 katz_deli = []
 
 def line(katz_deli)
- katz_deli
+ katz_deli.map 
     
     
      if katz_deli.count > 0

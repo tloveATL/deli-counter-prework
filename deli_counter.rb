@@ -14,4 +14,5 @@ end
 
 def take_a_number(katz_deli, joiner)
   katz_deli.push(joiner)
-  puts "Welcome, #{joiner}. You are number  in line."
+  puts "Welcome, #{joiner}. You are number #{katz_deli.length} in line."
+end

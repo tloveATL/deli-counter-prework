@@ -14,3 +14,4 @@ end
 
 def take_a_number(katz_deli, joiner)
   katz_deli.push(joiner)
+  puts 
